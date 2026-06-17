@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     /* Sets the font to Arial, or any sans-serif if Arial is missing */
 
-    background: radial-gradient(circle, white, lightgray);
+    background: radial-gradient(circle, white, black);
     /* Creates a background that starts white at the center 
        and fades to light gray at the edges */
 }
